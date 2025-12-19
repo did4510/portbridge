@@ -189,7 +189,7 @@ Each service runs in dedicated executor threads. Server main thread never blocke
 
 ## 📚 Documentation
 
-- **PORTBRIDGE_GUIDE.md** - Complete feature overview, how it works, troubleshooting
+- **GUIDE.md** - Complete feature overview, how it works, troubleshooting
 - **CONFIGURATION.md** - Every config option explained with examples
 - **This README** - Quick start and command reference
 
@@ -206,7 +206,7 @@ Each service runs in dedicated executor threads. Server main thread never blocke
 
 ## 📝 License
 
-Licensed under TEMPLATE_LICENSE.txt
+Licensed under LICENSE.md
 
 ## 🙋 Support
 
@@ -219,5 +219,3 @@ Licensed under TEMPLATE_LICENSE.txt
 And check `config/portbridge-common.toml` for obvious issues.
 
 ---
-
-**Made for Minecraft server administrators who just want it to work.** 🎮

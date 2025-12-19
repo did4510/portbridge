@@ -173,15 +173,6 @@ debugLogging = false
 - Non-disruptive failure modes
 - Automatic retry mechanisms
 
-## Files Created
-
-- `src/main/java/com/darsh/portbridge/PortBridge.java` - Main mod class
-- `src/main/java/com/darsh/portbridge/Config.java` - Configuration
-- `src/main/java/com/darsh/portbridge/SimpleUPnP.java` - UPnP utilities
-- `src/main/java/com/darsh/portbridge/PortForwardingManager.java` - Port forwarding logic
-- `src/main/java/com/darsh/portbridge/PublicIPResolver.java` - IP detection
-- `src/main/java/com/darsh/portbridge/CommandHandler.java` - Commands
-- `build/libs/portbridge-1.0.0.jar` - **READY TO USE MOD JAR**
 
 ## License
 
@@ -190,8 +181,7 @@ This project is licensed under the MIT License. See the `LICENSE` file at the re
 Replace the `LICENSE` file or `gradle.properties` settings if you wish to use a different license. Ensure `gradle.properties` `mod_license` matches your chosen license identifier before publishing.
 
 Authorship
-
-Set the author metadata in `gradle.properties` by editing `mod_authors` to your name and contact information (for example: `Your Name <you@example.com>`). The build process injects this value into the generated `neoforge.mods.toml` used in the mod jar.
+ `Darsh(https://github.com/did4510)`
 
 ## Support
 

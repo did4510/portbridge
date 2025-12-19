@@ -460,23 +460,6 @@ Full duplex forwarding to local connection
 
 ---
 
-## Future Improvements
-
-- [ ] Tunnel traffic encryption (optional)
-- [ ] DNS CNAME support for custom domain
-- [ ] Multi-port forwarding (multiple servers per machine)
-- [ ] Relay server rotation/failover
-- [ ] Web dashboard for diagnostics
-- [ ] Metrics export (Prometheus)
-
----
-
-## License
-
-Licensed under TEMPLATE_LICENSE.txt (included)
-
----
-
 ## Version History
 
 ### 1.0.0 (Release)
@@ -488,6 +471,4 @@ Licensed under TEMPLATE_LICENSE.txt (included)
 - Clean async/threading architecture
 
 ---
-
-Made with ❤️ for Minecraft server administrators
 
